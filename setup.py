@@ -14,11 +14,7 @@ setup(
     name='connectfour',
     version='1.0.0',
     description='An implementation of the classic Connect Four game',
-    # long_description=long_description,
-    # long_description_content_type='text/markdown',
-    # url='https://github.com/yanxichen/instagrow',
     author='Yanxi Chen',
-    # author_email='',
     classifiers=[
         'Development Status :: 3 - Alpha',
         'Intended Audience :: Developers',
